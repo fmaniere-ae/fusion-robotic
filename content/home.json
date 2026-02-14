@@ -1,0 +1,171 @@
+{
+  "hero": {
+    "badge": "Proposé par l'association Lady_Tabitha",
+    "title_line1": "Atelier robotique",
+    "title_line2": "Viens explorer avec nous !",
+    "subtitle": "L'atelier où les enfants deviennent des créateurs de technologie ;)",
+    "tagline": "Fusion, atelier robotique - L'innovation portée par la diversité",
+    "stats": {
+      "age": "8-12",
+      "age_label": "ans",
+      "frequency": "1x",
+      "frequency_label": "par mois",
+      "stat3": "xx",
+      "stat3_label": "xx xxxx"
+    }
+  },
+  
+  "about": {
+    "association_title": "L'association Lady Tabitha",
+    "association_description": "Notre association...",
+    
+    "atelier_title": "L'atelier de robotique \"Fusion\"",
+    "atelier_description_p1": "Le projet <strong>Fusion</strong> est un atelier mensuel qui initie les enfants de 8 à 12 ans aux merveilles de la robotique, de l'électronique et de la programmation.",
+    "atelier_description_p2": "À travers des projets ludiques et collaboratifs, nous développons la créativité, la logique et l'esprit d'équipe.",
+    
+    "vision_title": "Notre vision",
+    "vision_intro": "Qui a dit que la robotique est réservée aux adultes ?<br>Nous croyons que chaque enfant peut devenir un créateur de technologie, pas seulement un consommateur.",
+    "vision_points": [
+      "Faire découvrir aux enfants une nouvelle façon de se servir de la technologie",
+      "Susciter de nouvelles vocations notamment auprès de nos petites filles",
+      "Donner la goût des sciences et de l'ingénierie dès le plus jeune âge !",
+      "Apprendre en s'amusant avec du vrai matériel",
+      "Développer la confiance en soi à travers la réussite de projets",
+      "Cultiver l'esprit d'équipe et la collaboration"
+    ]
+  },
+  
+  "why_register": {
+    "title": "Pourquoi inscrire votre enfant ?",
+    "subtitle": "Des bénéfices concrets pour le développement de votre enfant",
+    "benefits": [
+      {
+        "icon": "🧠",
+        "title": "Développe la logique",
+        "description": "Comprendre la technologie et percer les secrets de nos objets du quotidien"
+      },
+      {
+        "icon": "🎨",
+        "title": "Stimule la créativité",
+        "description": "Concevoir en encourageant un esprit critique et l'inventivité"
+      },
+      {
+        "icon": "🤝",
+        "title": "Renforce l'entraide",
+        "description": "Travailler en équipe sur des projets collaboratifs"
+      },
+      {
+        "icon": "💪",
+        "title": "Booste la confiance",
+        "description": "Fierté de créer quelque chose qui fonctionne vraiment dans une ambiance ludique"
+      }
+    ]
+  },
+  
+  "program": {
+    "title": "Programme",
+    "beginners": {
+      "tab_label": "🎯 Débutants",
+      "learning_path_title": "Parcours d'apprentissage",
+      "learning_path_description": "Une initiation progressive à l'électronique, découverte des composants et réalisation de projets simples.",
+      "learning_steps": [
+        "Découverte des composants électroniques",
+        "Utilisation d'Arduino et capteurs",
+        "Projets électroniques simples"
+      ],
+      "projects_title": "Projets réalisés",
+      "projects": [
+        {
+          "title": "Platine de prototypage",
+          "description": "Commencez par connecter facilement des LEDs, résistances et boutons pour comprendre les bases des circuits électroniques."
+        },
+        {
+          "title": "Arduino : capteurs, affichage",
+          "description": "Mesurer des distances et déclencher des actions comme une alarme ou un affichage météo."
+        },
+        {
+          "title": "Projets simples",
+          "description": "Réalisez un mini feu tricolore, un thermomètre digital ou une mini voiture équipée de capteurs et moteurs pour approfondir la pratique."
+        }
+      ]
+    },
+    "advanced": {
+      "tab_label": "🚀 Avancés",
+      "learning_path_title": "Parcours d'apprentissage",
+      "learning_path_description": "Approfondissement des concepts avec programmation et projets plus complexes.",
+      "learning_steps": [
+        "Programmation sur un Arduino",
+        "Utilisation de capteurs avancés",
+        "Gagner en autonomie",
+        "Développement de l'esprit d'équipe"
+      ],
+      "projects_title": "Projets réalisés",
+      "projects": [
+        {
+          "title": "LED clignotantes",
+          "description": "LED clignotantes avec Arduino, contrôle basique des sorties numériques."
+        },
+        {
+          "title": "Capteur de température avec écran LCD",
+          "description": "Mesurer la température et afficher des valeurs en temps réel sur un écran LCD."
+        },
+        {
+          "title": "Système de porte automatique",
+          "description": "Utiliser un capteur de mouvement pour automatiser l'ouverture et la fermeture d'une porte."
+        }
+      ]
+    }
+  },
+  
+  "practical_info": {
+    "title": "Infos pratiques",
+    "organization": {
+      "title": "Organisation",
+      "schedule": "Samedi 14h30-16h30, une fois par mois",
+      "location": "LCR Tournemire, Les Ulis",
+      "group_size": "xx enfants maximum, 2 encadrants",
+      "price": "100€ l'année (9 sessions)"
+    },
+    "safety": {
+      "title": "Sécurité",
+      "points": [
+        "Surveillance et encadrement constant par des bénévoles passionnés",
+        "Matériel adapté aux enfants",
+        "Basse tension uniquement (piles, USB)"
+      ]
+    },
+    "equipment": {
+      "title": "Matériel fourni",
+      "items": [
+        "Kits robotiques complets",
+        "Outils et composants électroniques",
+        "Goûter et boissons"
+      ]
+    }
+  },
+  
+  "contact": {
+    "title": "Contactez-nous",
+    "subtitle": "Une question ? Besoin d'informations ? N'hésitez pas à nous contacter !",
+    "phone": "06 17 19 06 11",
+    "email": "projet.tabitha@gmail.com",
+    "address": "Lady_Tabitha, Association loi 1901\n7 rue du Forez, 91940 Les Ulis",
+    "instagram": "lady__tabitha",
+    "form": {
+      "title": "Envoyez-nous un message",
+      "name_placeholder": "Votre nom",
+      "email_placeholder": "Votre email",
+      "message_placeholder": "Votre message",
+      "submit_button": "Envoyer"
+    }
+  },
+  
+  "footer": {
+    "tagline": "Fusion Robotic - L'innovation portée par la diversité",
+    "description": "Atelier mensuel de robotique pour enfants de 8 à 12 ans",
+    "copyright": "© 2026 Fusion Robotic - Lady_Tabitha. Tous droits réservés.",
+    "association_title": "Association Lady_Tabitha",
+    "association_legal": "Association loi 1901",
+    "association_address": "7 rue du Forez\n91940 Les Ulis"
+  }
+}

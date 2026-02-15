@@ -584,8 +584,10 @@
                             </div>
                             <div>
                                 <div class="font-heading font-bold text-gray-900 mb-1">Email</div>
-                                <a href="mailto:projet.tabitha@gmail.com"
-                                    class="text-fusion-purple hover:text-fusion-cyan transition-colors">projet.tabitha@gmail.com</a>
+                                <!-- <a href="mailto:projet.tabitha@gmail.com" class="text-fusion-purple hover:text-fusion-cyan transition-colors">projet.tabitha@gmail.com</a> -->
+                                <script>
+                                    document.write('<a class="text-fusion-purple hover:text-fusion-cyan transition-colors" href="mailto:' + 'fmaniere' + '@' + 'gmail.com">Contact</a>');
+                                </script>
                             </div>
                         </div>
 
@@ -604,15 +606,16 @@
 
                     <div class="bg-white rounded-2xl p-6 shadow-lg">
                         <h3 class="font-heading text-xl font-bold mb-4 text-gray-900">Envoyez-nous un message</h3>
-                        <form name="contact" method="POST" data-netlify="true" data-netlify-honeypot="bot-field" class="space-y-4">
+                        <form name="contact" method="POST" data-netlify="true" data-netlify-honeypot="bot-field"
+                            class="space-y-4">
                             <!-- Champ caché obligatoire pour Netlify -->
                             <input type="hidden" name="form-name" value="contact" />
-                            
+
                             <!-- Champ honeypot caché pour anti-spam -->
                             <p class="hidden">
                                 <label>Ne pas remplir : <input name="bot-field" /></label>
                             </p>
-                            
+
                             <input type="text" name="name" placeholder="Votre nom" required
                                 class="w-full px-4 py-3 rounded-lg border-2 border-gray-200 focus:border-fusion-cyan focus:outline-none transition-colors">
                             <input type="email" name="email" placeholder="Votre email" required
@@ -629,6 +632,12 @@
             </div>
         </div>
     </section>
+
+    <!-- Ajoute ce script dans ton <head> pour hCaptcha -->
+    <script src="https://js.hcaptcha.com/1/api.js" async defer></script>
+
+
+
     <!-- Footer -->
     <footer class="bg-gradient-to-br from-gray-900 to-gray-800 text-white">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">

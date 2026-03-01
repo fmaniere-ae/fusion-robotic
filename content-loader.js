@@ -146,8 +146,8 @@ async function loadContent() {
         // Coordonnées
         contactSection.querySelector('a[href^="tel"]').textContent = data.contact.phone;
         contactSection.querySelector('a[href^="tel"]').href = `tel:${data.contact.phone.replace(/\s/g, '')}`;
-        contactSection.querySelector('a[href^="mailto"]').textContent = data.contact.email;
-        contactSection.querySelector('a[href^="mailto"]').href = `mailto:${data.contact.email}`;
+        // contactSection.querySelector('a[href^="mailto"]').textContent = data.contact.email;
+        // contactSection.querySelector('a[href^="mailto"]').href = `mailto:${data.contact.email}`;
         contactSection.querySelectorAll('.text-gray-700')[0].innerHTML = data.contact.address.replace(/\n/g, '<br>');
 
         // Form placeholders

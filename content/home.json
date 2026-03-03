@@ -149,12 +149,12 @@
     "subtitle": "Une question ? Besoin d'informations ? N'hésitez pas à nous contacter !",
     "phone": "",
     "email": "fusion.robotic91@gmail.com",
-    "address": "Lady_Tabitha, Association loi 1901\n7 rue du Forez, 91940 Les Ulis",
+    "address": "Lady_Tabitha, Association loi 1901\n91940 Les Ulis",
     "instagram": "lady__tabitha",
     "form": {
       "title": "Envoyez-nous un message",
       "name_placeholder": "Votre nom",
-      "email_placeholder": "Votre email",
+      "email_placeholder": "Votre em7 rue du Forez, ail",
       "message_placeholder": "Votre message",
       "submit_button": "Envoyer"
     }
@@ -166,6 +166,6 @@
     "copyright": "© 2026 Fusion Robotic - Lady_Tabitha. Tous droits réservés.",
     "association_title": "Association Lady_Tabitha",
     "association_legal": "Association loi 1901",
-    "association_address": "7 rue du Forez\n91940 Les Ulis"
+    "association_address": "\n91940 Les Ulis"
   }
 }

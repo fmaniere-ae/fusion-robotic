@@ -10,14 +10,14 @@
       "age_label": "ans",
       "frequency": "1x",
       "frequency_label": "par mois",
-      "stat3": "xx",
-      "stat3_label": "xx xxxx"
+      "stat3": "10",
+      "stat3_label": "places"
     }
   },
   
   "about": {
     "association_title": "L'association Lady Tabitha",
-    "association_description": "Notre association...",
+    "association_description": "Nous sommes une association à but non lucratif (Loi 1901) engagée pour un avenir plus solidaire et inclusif. Notre mission : agir concrètement et durablement pour améliorer la vie des enfants, des jeunes et des structures sociales en situation de précarité.",
     
     "atelier_title": "L'atelier de robotique \"Fusion\"",
     "atelier_description_p1": "Le projet <strong>Fusion</strong> est un atelier mensuel qui initie les enfants de 8 à 12 ans aux merveilles de la robotique, de l'électronique et de la programmation.",
@@ -123,7 +123,7 @@
       "title": "Organisation",
       "schedule": "Samedi 14h30-16h30, une fois par mois",
       "location": "LCR Tournemire, Les Ulis",
-      "group_size": "xx enfants maximum, 2 encadrants",
+      "group_size": "10 enfants maximum, 2 encadrants",
       "price": "100€ l'année (9 sessions)"
     },
     "safety": {
@@ -147,8 +147,8 @@
   "contact": {
     "title": "Contactez-nous",
     "subtitle": "Une question ? Besoin d'informations ? N'hésitez pas à nous contacter !",
-    "phone": "06 17 19 06 11",
-    "email": "projet.tabitha@gmail.com",
+    "phone": "",
+    "email": "fusion.robotic91@gmail.com",
     "address": "Lady_Tabitha, Association loi 1901\n7 rue du Forez, 91940 Les Ulis",
     "instagram": "lady__tabitha",
     "form": {
